@@ -1,5 +1,7 @@
 # Daily Diet API
 
+Parte do projeto [Desenvolvimento Avançado com Flask](https://github.com/Luis-Andrei/Desenvolvimento-Avan-ado-com-Flask)
+
 API para controle de dieta diária, permitindo o registro e gerenciamento de refeições.
 
 ## Instalação
@@ -45,4 +47,4 @@ A documentação interativa da API está disponível em:
     "data_hora": "2024-01-01T08:00:00",
     "dentro_da_dieta": true
 }
-``` 
+```
